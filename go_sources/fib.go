@@ -1,5 +1,4 @@
-/* fib.sc
- *
+/*
  * This test program computes the Nth Fibonacci number
  */
 

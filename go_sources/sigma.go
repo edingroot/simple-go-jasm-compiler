@@ -17,4 +17,3 @@ func void main ( ) {
   print "The sum is "
   println sum
 }
-
